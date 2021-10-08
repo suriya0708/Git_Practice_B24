@@ -13,5 +13,12 @@ public class Second {
     public void m(String s){
 
         // heloooooo
+
+        System.out.println("first method");
     }
+
+
+
+
+
 }
