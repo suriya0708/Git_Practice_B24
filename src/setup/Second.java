@@ -2,23 +2,8 @@ package setup;
 
 public class Second {
     public static void main(String[] args) {
-
-
-
-//helllooo
-
-
+        // one
+        //two
+        //three
     }
-
-    public void m(String s){
-
-        // heloooooo
-
-        System.out.println("first method");
-    }
-
-
-
-
-
 }
